@@ -15,15 +15,15 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "QCE-23: Quantum System Stability and Reproducibility Workshop"
-keywords:    "quantum computing, NISQ, VQA, quantum machine learning, Quantum System Stability, Reproducibility"
+title:       "Mastering Data-Driven Computational Wave Imaging on GPUs and Edge Device: A Hands-On Tutorial"
+#keywords:    "quantum computing, NISQ, VQA, quantum machine learning, Quantum System Stability, Reproducibility"
 description: "-"
 
-source_link: "https://github.com/happybored/qssr.github.io"
+#source_link: "https://github.com/happybored/qssr.github.io"
 #source_link: "https://uuudown.github.io/qccc/"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-55665759-3
+#google_analytics_key: UA-55665759-3
 
 
 ### template colors, used site-wide via css ###
